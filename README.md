@@ -14,4 +14,11 @@ Realizar los siguientes ejercicios en HackerRank y subir el código de cada uno 
 - Classes and Objects.
 
 ### Segunda parte:
-Modificar el archivo `conflicto.cpp` y seguir las instrucciones para resolver el conflicto. Esto debe realizarse en un commit aparte a los ejercicios de la primera parte.
+- Escoger una pareja.
+- Usando la URL del repositorio de mi pareja, descargar los archivos de forma local (clonar el repositorio).
+- Modificar el archivo `conflicto.cpp` siguiendo las instrucciones.
+- Subir los cambios al repositorio de mi pareja.
+- Modificar el archivo en mi propio repositorio (sin descargar los últimos cambios).
+- Actualizar mi repositorio local después de hacer commit de mis cambios.
+- Resolver el conflicto según las indicaciones del archivo.
+- Subir los cambios con el código correcto.
